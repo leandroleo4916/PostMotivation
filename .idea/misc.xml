@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/LEANDRO/AndroidStudioProjects/PostMotivation/app/src/main/res/drawable/back_white_stroke.xml" value="0.1575" />
+        <entry key="..\:/Users/LEANDRO/AndroidStudioProjects/PostMotivation/app/src/main/res/drawable/ic_avatar.xml" value="0.1575" />
+        <entry key="..\:/Users/LEANDRO/AndroidStudioProjects/PostMotivation/app/src/main/res/drawable/ic_back_white.xml" value="0.1575" />
+        <entry key="..\:/Users/LEANDRO/AndroidStudioProjects/PostMotivation/app/src/main/res/drawable/ic_option.xml" value="0.1575" />
         <entry key="..\:/Users/LEANDRO/AndroidStudioProjects/PostMotivation/app/src/main/res/layout/activity_main.xml" value="0.221875" />
+        <entry key="..\:/Users/LEANDRO/AndroidStudioProjects/PostMotivation/app/src/main/res/layout/layout_top.xml" value="0.34347275031685676" />
+        <entry key="..\:/Users/LEANDRO/AndroidStudioProjects/PostMotivation/app/src/main/res/layout/recycler_recent.xml" value="0.23999999479814021" />
       </map>
     </option>
   </component>
