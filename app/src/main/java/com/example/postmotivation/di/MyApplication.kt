@@ -1,7 +1,6 @@
 package com.example.postmotivation.di
 
 import android.app.Application
-import com.example.postmotivation.di.appModules
 import org.koin.android.ext.koin.androidContext
 import org.koin.core.context.startKoin
 
